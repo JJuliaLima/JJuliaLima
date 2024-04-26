@@ -14,3 +14,5 @@
  ### 📫 Como entrar em contato comigo: ...
   
 <a href="https://www.linkedin.com/in/j%C3%BAlia-lima-ara%C3%BAjo-ab879a2b5/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" target="_blank" width="40" height="40"  /></a>
+
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
