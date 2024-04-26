@@ -1,4 +1,5 @@
-### Hi there 👋
+# Olá, me chamo Júlia Lima! 
+## Bem vindo ao meu perfil GitHub 👋
 
 <!--
 **JJuliaLima/JJuliaLima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+          
