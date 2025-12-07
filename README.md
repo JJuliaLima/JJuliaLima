@@ -1,5 +1,7 @@
 # Olá, me chamo Julia Lima ! 
 
+<div align="right"><img height="200" align="center" src="readme-git/octocat-1714149399729.png" alt="Octocat" /></div>
+
 ### 🌱 Atualmente estou aprendendo ...
 
 <br>
@@ -27,7 +29,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
 </div>
-
 
 
 
